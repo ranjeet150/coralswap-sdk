@@ -2,8 +2,6 @@
 node_modules/
 dist/
 coverage/
-.env
-.env.*
 *.log
 *.sh
 .DS_Store
@@ -16,3 +14,4 @@ docs/*
 # Rust build output (1.2GB of Cargo artifacts was previously tracked here)
 target/
 **/target/
+config.bat
